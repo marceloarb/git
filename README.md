@@ -29,11 +29,12 @@ Exercise Steps/Instructions:
 * Check the status, add, commit and push your changes to the text-branch.  Make sure you add a descriptive message for your commit.
 * Add 3 additional lorem-ipsum paragraphs into the notes.txt file which should now be on the text-branch.
 * Commit and push your additional changes to the text-branch on GitHub.  Make sure you add a descriptive message for your commit.
-* On GitHub, verify that the master branch only has the README.md and the data.json file with nothing else.  Verify that the html-branch and the text-branch each have a respective .html and .txt file.
+* On GitHub, verify that the master branch only has the README.md file and the data.json file with nothing else.  Verify that the html-branch and the text-branch each have a respective .html and .txt file.
 Submit a pull request for both the html-branch and the text-branch to be merged into master.  Add your TA as a collaborator for both Pull Requests (PR).  
 
-**Bonus Goals:
-* The instructions for the bonus functionality are another branch of this repo.  Find those instructions
+*Bonus Goal: 
+
+* Merge The <code>merge-this-branch</code> into the master branch.  If you run into a merge conflict, get rid of the bonus goals bullet on the master branch of the README file and replace it with this bullet.  Also, keep all the data from both the merge-this-brarnch and the master branch
 
 3. Submit the exercise in <a href="https://bit.ly/3aKtYAC" target="_blank">TEKsystems Academy</a>
 
